@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 
 def greetings():
+    """Salute RESIF people"""
     print("Hello RESIF people!")
 
 def repeat(x, callback):
+    """Call x times callback"""
     for _ in range(x):
         callback()
 
