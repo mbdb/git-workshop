@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+"""Et voila une petite modif gratuite"""
+
 def greetings():
     """Salute RESIF people"""
     print("Hello RESIF people!")
